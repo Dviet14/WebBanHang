@@ -1,1 +1,31 @@
 # WebBanHang
+
+## Thông tin sinh viên
+- **Họ tên**: [Nguyễn Văn A]
+- **Mã sinh viên**: [12345678]
+
+## Giới thiệu Project
+**WebBanHang** là ứng dụng web quản lý bán hàng gồm 3 đối tượng chính:
+- **Product**: Sản phẩm
+- **Customer**: Khách hàng
+- **Order**: Đơn hàng
+
+Chức năng chính:
+- Đăng ký/Đăng nhập người dùng (Breeze)
+- Thêm/Xóa/Sửa/Xem sản phẩm
+- Quản lý đơn hàng
+- Quản lý khách hàng
+- Thống kê đơn hàng
+
+## Sơ đồ cấu trúc (Class Diagram)
+
+```plaintext
++---------+    +----------+    +-------+
+| Product |    | Customer |    | Order |
++---------+    +----------+    +-------+
+| id      |    | id       |    | id    |
+| name    |    | name     |    | customer_id (FK)
+| price   |    | email    |    | product_id  (FK)
++---------+    +----------+    | quantity
+                               | total_price
+                               +-------+
