@@ -1,8 +1,8 @@
 # WebBanHang
 
 ## Thông tin sinh viên
-- **Họ tên**: [Nguyễn Văn A]
-- **Mã sinh viên**: [12345678]
+- **Họ tên**: Nguyễn Duy Việt
+- **Mã sinh viên**: 23010775
 
 ## Giới thiệu Project
 **WebBanHang** là ứng dụng web quản lý bán hàng gồm 3 đối tượng chính:
