@@ -19,13 +19,4 @@ Chức năng chính:
 
 ## Sơ đồ cấu trúc (Class Diagram)
 
-```plaintext
-+---------+    +----------+    +-------+
-| Product |    | Customer |    | Order |
-+---------+    +----------+    +-------+
-| id      |    | id       |    | id    |
-| name    |    | name     |    | customer_id (FK)
-| price   |    | email    |    | product_id  (FK)
-+---------+    +----------+    | quantity
-                               | total_price
-                               +-------+
+
