@@ -1,11 +1,11 @@
-# 🛍️ WebBanHang - Laravel Project
+# WebBanHang - Laravel Project
 
-## 👤 Thông tin sinh viên
+## Thông tin sinh viên
 
-- **Họ tên:** Nguyễn Văn A  
-- **Mã số sinh viên:** 12345678  
+- **Họ tên:** Nguyễn Duy Việt  
+- **Mã số sinh viên:** 23010775  
 
-## 📖 Giới thiệu Project
+## Giới thiệu Project
 
 **WebBanHang** là một dự án Laravel đơn giản mô phỏng hệ thống quản lý bán hàng (ví dụ: đồ chơi, đồ gia dụng...), bao gồm chức năng:
 
@@ -17,4 +17,5 @@
 
 ---
 
-## 🧱 Sơ đồ cấu trúc (Class Diagram)
+## Sơ đồ cấu trúc (Class Diagram)
+## Sơ đồ thuật toán (Activity Diagram):
