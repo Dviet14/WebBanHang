@@ -26,15 +26,17 @@
 - Quản lý **Người dùng (User)**: Đăng ký, đăng nhập (Laravel Breeze).
 - Quản lý **Sản phẩm (Product)**: Thêm/sửa/xoá sản phẩm (đang phát triển).
 - Dashboard đơn giản: thống kê số lượng khách hàng, đơn hàng, sản phẩm.
-- 
+  
 ## Cài đặt
 
 1.Clone project:
+
    git clone https://github.com/yourusername/WebBanHang.git
    
    cd WebBanHang
    
 2.Cài đặt thư viện:
+   
    composer install
    
    npm install && npm run dev
@@ -42,9 +44,11 @@
 3.Đổi tên file .env.example thành .env
 
 4.Tạo database và migrate:
+   
    php artisan migrate
 
 5.Chạy server:
+  
   php artisan serve
   
 ## Link:
