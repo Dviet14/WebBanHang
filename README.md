@@ -18,5 +18,6 @@
 ---
 
 ## Sơ đồ cấu trúc (Class Diagram):
-![image](https://github.com/user-attachments/assets/9c92d5a3-0301-4c3e-9549-f0f098210536)
+![image](https://github.com/user-attachments/assets/d2ef2a47-c86f-4eb6-a173-5e65888944dd)
+
 ## Sơ đồ thuật toán (Activity Diagram):
