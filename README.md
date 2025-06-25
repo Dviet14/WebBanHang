@@ -32,14 +32,19 @@
 1. Clone project:
    git clone https://github.com/yourusername/WebBanHang.git
    cd WebBanHang
+   
 2.Cài đặt thư viện:
    composer install
    npm install && npm run dev
+   
 3.Đổi tên file .env.example thành .env
+
 4.Tạo database và migrate:
    php artisan migrate
+
 5.Chạy server:
   php artisan serve
+  
 ## Link:
    https://github.com/yourusername/WebBanHang.git
 
