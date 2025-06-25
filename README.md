@@ -29,12 +29,14 @@
 - 
 ## Cài đặt
 
-1. Clone project:
+1.Clone project:
    git clone https://github.com/yourusername/WebBanHang.git
+   
    cd WebBanHang
    
 2.Cài đặt thư viện:
    composer install
+   
    npm install && npm run dev
    
 3.Đổi tên file .env.example thành .env
