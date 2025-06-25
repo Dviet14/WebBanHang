@@ -7,7 +7,7 @@
 
 ## Giới thiệu Project
 
-**WebBanHang** là một dự án Laravel đơn giản mô phỏng hệ thống quản lý bán hàng (ví dụ: đồ chơi, đồ gia dụng...), bao gồm chức năng:
+**WebBanHang** là một dự án Laravel bao gồm chức năng:
 
 - Đăng nhập / đăng ký với Laravel Breeze
 - Quản lý sản phẩm (Product CRUD)
